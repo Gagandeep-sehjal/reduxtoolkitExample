@@ -5,8 +5,8 @@ This repository contains a basic example demonstrating the usage of Redux Toolki
 ## Usage
 This application allows you to:
 
-Add new users to the Store.
-Remove a particular user from the Store.
+Add new users to the Store,
+Remove a particular user from the Store,
 Remove all users from the Store.
 
 ## Note
@@ -18,5 +18,5 @@ This project is intended for educational purposes only and serves as a basic exa
 
 ```bash
 npm install
-``
+
 
